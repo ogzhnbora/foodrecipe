@@ -1,0 +1,49 @@
+@model YemekTarifiSitesi.Models.Meal
+
+<div class="container mt-5">
+    <!-- Title -->
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1 class="display-4">@Model.strMeal</h1>
+        </div>
+    </div>
+
+    <!-- Image and Recipe Details -->
+    <div class="row mt-4">
+        <!-- Meal Image -->
+        <div class="col-md-6 text-center">
+            <img src="@Model.strMealThumb" class="img-fluid rounded shadow-lg" alt="@Model.strMeal" />
+        </div>
+
+        <!-- Recipe Instructions -->
+        <div class="col-md-6">
+            <div class="card shadow-lg" style="position: sticky; top: 20px;">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">How to Prepare</h3>
+                    <p class="card-text">@Model.strInstructions</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ingredients List -->
+    <div class="row mt-5">
+        <div class="col-md-12">
+            <h3 class="text-center text-primary">Ingredients</h3>
+            <ul class="list-group list-group-flush">
+                @for (int i = 1; i <= 20; i++)
+                {
+                    var ingredient = Model.GetType().GetProperty($"strIngredient{i}")?.GetValue(Model, null)?.ToString();
+                    var measure = Model.GetType().GetProperty($"strMeasure{i}")?.GetValue(Model, null)?.ToString();
+
+                    if (!string.IsNullOrEmpty(ingredient) && !string.IsNullOrEmpty(measure))
+                    {
+                        <li class="list-group-item">
+                            <strong>@measure</strong> @ingredient
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+    </div>
+</div>

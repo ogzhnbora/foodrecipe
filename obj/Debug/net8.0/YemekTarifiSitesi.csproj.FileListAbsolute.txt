@@ -1,0 +1,85 @@
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\appsettings.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.staticwebassets.runtime.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.exe
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.deps.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.runtimeconfig.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.pdb
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.csproj.AssemblyReference.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.AssemblyInfoInputs.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.AssemblyInfo.cs
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.csproj.CoreCompileInputs.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.RazorAssemblyInfo.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.RazorAssemblyInfo.cs
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.YemekTarifiSitesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.build.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\bundle\YemekTarifiSitesi.styles.css
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\projectbundle\YemekTarifiSitesi.bundle.scp.css
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTar.55691A61.Up2Date
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\refint\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.pdb
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.genruntimeconfig.cache
+C:\Users\borac\Masaüstü\.NET Project\YemekTarifiSitesi\obj\Debug\net8.0\ref\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\appsettings.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.staticwebassets.runtime.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.exe
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.deps.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.runtimeconfig.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\YemekTarifiSitesi.pdb
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Firebase.Auth.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.Management.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.csproj.AssemblyReference.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.AssemblyInfoInputs.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.AssemblyInfo.cs
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.csproj.CoreCompileInputs.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.RazorAssemblyInfo.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.RazorAssemblyInfo.cs
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.YemekTarifiSitesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.build.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YemekTarifiSitesi.props
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\bundle\YemekTarifiSitesi.styles.css
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\scopedcss\projectbundle\YemekTarifiSitesi.bundle.scp.css
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTar.55691A61.Up2Date
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\refint\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.pdb
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.genruntimeconfig.cache
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\ref\YemekTarifiSitesi.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\firebase-service-account.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\package-lock.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\package.json
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Firebase.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\LiteDB.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll

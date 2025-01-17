@@ -1,0 +1,59 @@
+﻿<div class="row mt-4">
+    <!-- Kategori Listesi -->
+    <div class="col-lg-3">
+        <div class="card shadow-sm">
+            <div class="card-header bg-dark text-white">
+                <h4 class="mb-0">Categories
+                </h4>
+            </div>
+            <ul class="list-group list-group-flush">
+                @foreach (var category in ViewBag.Categories as List<YemekTarifiSitesi.Models.Category>)
+                {
+                    <li class="list-group-item">
+                        <a href="@Url.Action("Category", "Home", new { category = category.strCategory })" class="text-decoration-none text-dark">
+                            <span class="fw-bold">@category.strCategory</span>
+                        </a>
+                    </li>
+                }
+                
+            </ul>
+        </div>
+    </div>
+
+    <!-- Yemek Tarifleri -->
+    <div class="col-lg-9">
+        @if (ViewData["Query"] != null)
+        {
+            <h1 class="text-center mb-4">Search Results: "@ViewData["Query"]"</h1>
+        }
+        else
+        {
+            <h1 class="text-center mb-4">Dinner Recipes</h1>
+        }
+
+        @if (Model != null && Model.meals != null && Model.meals.Count > 0)
+        {
+            <div class="row">
+                @foreach (var meal in Model.meals)
+                {
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="card">
+                            <img src="@meal.strMealThumb" class="card-img-top" alt="@meal.strMeal">
+                            <div class="card-body">
+                                <h5 class="card-title">@meal.strMeal</h5>
+                                <p class="card-text text-muted">
+                                    @(meal.strInstructions?.Length > 100 ? meal.strInstructions.Substring(0, 100) + "..." : meal.strInstructions)
+                                </p>
+                                <a href="@Url.Action("Detail", "Home", new { id = meal.idMeal })" class="btn btn-outline-primary btn-sm">See the recipe</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-center">No Result.</p>
+        }
+    </div>
+</div>
