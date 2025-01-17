@@ -83,3 +83,4 @@ C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\Firebase.dll
 C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\LiteDB.dll
 C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.Reactive.dll
 C:\Users\borac\Masaüstü\YemekTarifiSitesi\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\borac\Masaüstü\YemekTarifiSitesi\obj\Debug\net8.0\YemekTarifiSitesi.sourcelink.json
